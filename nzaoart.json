@@ -5,49 +5,49 @@
       "urltmb":"https://i.postimg.cc/x8LMcBb0/006190.jpg",
       "name":"Cat",
       "year":"2017",
-	  "tags":"sfw,lineart,oc"
+	  "tags":["sfw","lineart","oc"]
    }],
    [{
       "urlfull":"https://i.postimg.cc/HHm6KtLM/Bunny-Heart.jpg",
       "urltmb":"https://i.postimg.cc/9XxPwZZX/Bunny-Heart.jpg",
       "name":"Bunny Heart",
       "year":"2023",
-	  "tags":"sfw,lineart,oc"
+	  "tags":["sfw","lineart","oc"]
    },
    {
       "urlfull":"https://i.postimg.cc/k9s0n5Gf/010959.jpg",
       "urltmb":"https://i.postimg.cc/8PFK4Nh6/010959.jpg",
       "name":"Bunny Nude",
       "year":"2023",
-	  "tags":"r18,lineart,oc"
+	  "tags":["r18","lineart","oc"]
    }],
    [{
       "urlfull":"https://i.postimg.cc/mbfRfyjy/010978.jpg",
       "urltmb":"https://i.postimg.cc/g0D13Rfx/010978.jpg",
       "name":"Ankha",
       "year":"2023",
-	  "tags":"r18,lineart,fanart"
+	  "tags":["r18","lineart","fanart"]
    }],
    [{
       "urlfull":"https://i.postimg.cc/TwJvx1ny/5Amane.jpg",
       "urltmb":"https://i.postimg.cc/TwJvx1ny/5Amane.jpg",
       "name":"Kanata",
       "year":"2024",
-	  "tags":"r18,lineart,fanart"
+	  "tags":["sfw","lineart","fanart"]
    }],
    [{
       "urlfull":"https://i.postimg.cc/yN9zfvdy/6Witch.jpg",
       "urltmb":"https://i.postimg.cc/yN9zfvdy/6Witch.jpg",
       "name":"Marisa",
       "year":"2023",
-	  "tags":"sfw,lineart,fanart"
+	  "tags":["sfw","lineart","fanart"]
    }],
    [{
       "urlfull":"https://i.postimg.cc/MTSJgVf2/7IRyS.jpg",
       "urltmb":"https://i.postimg.cc/MTSJgVf2/7IRyS.jpg",
       "name":"IRyS",
       "year":"2024",
-	  "tags":"sfw,lineart,fanart"
+	  "tags":["sfw","lineart","fanart"]
    }]
    ]
 }
