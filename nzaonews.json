@@ -1,0 +1,13 @@
+{
+   "news":[
+   {
+      "day":"24",
+      "month":"7",
+      "year":"2024",
+      "title":"Early Prototype",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Early development of this website made of basic HTML/CSS at local drive. \n R&D of a minimalistic simple and fast art gallery solution. Particles were already added."
+   }
+   ]
+}
