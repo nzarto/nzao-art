@@ -1,10 +1,181 @@
 {
    "news":[
    {
+      "day":"23",
+      "month":"12",
+      "year":"2024",
+      "title":"News Page Added",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"This very Page is created."
+   },
+   {
+      "day":"21",
+      "month":"12",
+      "year":"2024",
+      "title":"Stream Page Finished",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Stream Page is now fully developed, Filters added, all buttons working, code optimized. Huge Success."
+   },
+   {
+      "day":"18",
+      "month":"12",
+      "year":"2024",
+      "title":"Multi-Stream Functionaliyu added",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Now it's possible to watch up to 4 streams at the same time. A big life quality improvement."
+   },
+   {
+      "day":"17",
+      "month":"12",
+      "year":"2024",
+      "title":"Help Section added",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Added manual for Stream Page."
+   },
+   {
+      "day":"13",
+      "month":"12",
+      "year":"2024",
+      "title":"Images Optimization",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Art, thumbnails and web graphic are now loading 700% faster. Amazing."
+   },
+   {
+      "day":"10",
+      "month":"12",
+      "year":"2024",
+      "title":"Gallery Filters added",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Had to learn JQuery lang just for that, now can code it too."
+   },
+   {
+      "day":"7",
+      "month":"12",
+      "year":"2024",
+      "title":"Gallery Finished",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Massive work has been done. Huge Success."
+   },
+   {
+      "day":"20",
+      "month":"11",
+      "year":"2024",
+      "title":"Fonts added",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":""
+   },
+   {
+      "day":"19",
+      "month":"11",
+      "year":"2024",
+      "title":"Advanced Gallery development",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Switching from Masonry to Isotope."
+   },
+   {
+      "day":"10",
+      "month":"11",
+      "year":"2024",
+      "title":"Pixiv Streams Added",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Pixiv API has been integrated. Only SFW stream tho, due to tech limitations from their end."
+   },
+   {
+      "day":"7",
+      "month":"11",
+      "year":"2024",
+      "title":"Calendar Finished",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Calendar Page is fully finished. Everything has been implemented and works perfectly, Huge Success."
+   },
+   {
+      "day":"4",
+      "month":"11",
+      "year":"2024",
+      "title":"Calendar Graphics",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Calendar Graphic elements are created in Photoshop, ready for code."
+   },
+   {
+      "day":"3",
+      "month":"11",
+      "year":"2024",
+      "title":"Website Deployed",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"First ever deployment of stable prototype. Website is now Public."
+   },
+   {
+      "day":"2",
+      "month":"11",
+      "year":"2024",
+      "title":"R18 Icons",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":""
+   },
+   {
+      "day":"1",
+      "month":"11",
+      "year":"2024",
+      "title":"Scroll Up Button added",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":""
+   },
+   {
+      "day":"29",
+      "month":"10",
+      "year":"2024",
+      "title":"Video Player development",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":""
+   },
+   {
+      "day":"11",
+      "month":"10",
+      "year":"2024",
+      "title":"Gallery development start",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":""
+   },
+   {
+      "day":"10",
+      "month":"10",
+      "year":"2024",
+      "title":"Website created locally",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":""
+   },
+   {
+      "day":"9",
+      "month":"10",
+      "year":"2024",
+      "title":"Video Player prototype",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":""
+   },
+   {
       "day":"24",
       "month":"7",
       "year":"2024",
-      "title":"Early Prototype",
+      "title":"Website early prototype",
 	  "category":"website",
 	  "headerimage":"",
 	  "newscomment":"Early development of this website made of basic HTML/CSS at local drive. \n R&D of a minimalistic simple and fast art gallery solution. Particles were already added."
