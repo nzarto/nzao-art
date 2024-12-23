@@ -16,7 +16,7 @@
       "title":"Stream Page Finished",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Stream Page is now fully developed, Filters added, all buttons working, code optimized. Huge Success."
+	  "newscomment":"Stream Page is fully developed, Filters added, everything works perfectly."
    },
    {
       "day":"18",
@@ -25,7 +25,7 @@
       "title":"Multi-Streams added",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Now it's possible to watch up to 4 streams at the same time. A big life quality improvement."
+	  "newscomment":"Now it's possible to watch up to 4 streams at the same time. It's a big deal and massive life quality improvement."
    },
    {
       "day":"17",
@@ -43,7 +43,7 @@
       "title":"Images Optimization",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Art, thumbnails and web graphic are now loading 700% faster. Amazing."
+	  "newscomment":"Art, thumbnails and web graphic are now loading 700% faster. Amazing!"
    },
    {
       "day":"10",
@@ -52,7 +52,7 @@
       "title":"Gallery Filters added",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Had to learn JQuery lang just for that, now can code it too."
+	  "newscomment":"Had to learn JQuery lang just for that, now can code in it too."
    },
    {
       "day":"7",
@@ -61,7 +61,7 @@
       "title":"Gallery Finished",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Massive work has been done. Huge Success."
+	  "newscomment":"Massive work has been done. Works perfectly and fast. Huge Success."
    },
    {
       "day":"20",
@@ -79,7 +79,7 @@
       "title":"Advanced Gallery dev",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Switching from Masonry to Isotope."
+	  "newscomment":""
    },
    {
       "day":"10",
@@ -88,7 +88,7 @@
       "title":"Pixiv Streams Added",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Pixiv API has been integrated. Only SFW streams tho, due to tech limitations from their end."
+	  "newscomment":"Pixiv API has been integrated."
    },
    {
       "day":"7",
