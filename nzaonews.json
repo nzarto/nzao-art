@@ -46,22 +46,13 @@
 	  "newscomment":"Art, thumbnails and web graphic are now loading 700% faster."
    },
    {
-      "day":"10",
-      "month":"12",
-      "year":"2024",
-      "title":"Gallery Filters added",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":"Had to learn JQuery lang just for that, now can code in it too."
-   },
-   {
       "day":"7",
       "month":"12",
       "year":"2024",
       "title":"Gallery improved farther",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Massive work has been done. Gallery now has all necessary tech and works perfectly on all devices."
+	  "newscomment":"Massive work has been done. Gallery now has all necessary tech and should work perfectly across all devices."
    },
    {
       "day":"20",
@@ -97,7 +88,7 @@
       "title":"Working prototype",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Website created locally with basic design and functions. Research and experiments continue."
+	  "newscomment":"Website created locally with basic design and functions."
    },
    {
       "day":"24",
@@ -106,7 +97,7 @@
       "title":"Early prototype",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"The early development of this very website made in basic HTML/CSS stored at local drive. \n Main goal is to create independent, simple and fast working gallery for my artworks."
+	  "newscomment":"The early development of this very website made in basic HTML/CSS stored at local drive."
    }
    ]
 }
