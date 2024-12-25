@@ -4,10 +4,10 @@
       "day":"23",
       "month":"12",
       "year":"2024",
-      "title":"News Page Added",
+      "title":"News Added",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"This very Page is created. Code optimizations."
+	  "newscomment":"The News Page created. Code optimizations across other pages."
    },
    {
       "day":"21",
@@ -31,7 +31,7 @@
       "day":"17",
       "month":"12",
       "year":"2024",
-      "title":"Help Section added",
+      "title":"Help Feature added",
 	  "category":"website",
 	  "headerimage":"",
 	  "newscomment":"Added manual for Stream Page."
@@ -58,10 +58,10 @@
       "day":"7",
       "month":"12",
       "year":"2024",
-      "title":"Gallery Finished",
+      "title":"Gallery improved farther",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Massive work has been done. Gallery works perfectly."
+	  "newscomment":"Massive work has been done. Gallery now has all necessary tech and works perfectly on all devices."
    },
    {
       "day":"20",
@@ -70,43 +70,16 @@
       "title":"Fonts added",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":""
-   },
-   {
-      "day":"19",
-      "month":"11",
-      "year":"2024",
-      "title":"Advanced Gallery dev",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":""
-   },
-   {
-      "day":"10",
-      "month":"11",
-      "year":"2024",
-      "title":"Pixiv Streams Added",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":"Pixiv API has been integrated."
+	  "newscomment":"Website is now using multiple fancy looking graffiti and inking style fonts."
    },
    {
       "day":"7",
       "month":"11",
       "year":"2024",
-      "title":"Calendar Finished",
+      "title":"Calendar Page",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Calendar Page is fully finished. Works perfectly."
-   },
-   {
-      "day":"4",
-      "month":"11",
-      "year":"2024",
-      "title":"Calendar Graphics",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":"Calendar Graphic elements are created in Photoshop, ready for code."
+	  "newscomment":"A new Calendar Page has been added. It has a week disk calculator for mid and long term planning."
    },
    {
       "day":"3",
@@ -115,70 +88,25 @@
       "title":"Website Deployed",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"First ever deployment of stable prototype. Website is now Public."
-   },
-   {
-      "day":"2",
-      "month":"11",
-      "year":"2024",
-      "title":"R18 Icons",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":""
-   },
-   {
-      "day":"1",
-      "month":"11",
-      "year":"2024",
-      "title":"Scroll Up Button added",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":""
-   },
-   {
-      "day":"29",
-      "month":"10",
-      "year":"2024",
-      "title":"Video Player dev",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":""
-   },
-   {
-      "day":"11",
-      "month":"10",
-      "year":"2024",
-      "title":"Gallery dev start",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":""
+	  "newscomment":"First ever deployment of stable prototype. Website is now Public and has Gallery and Timer Pages to offer."
    },
    {
       "day":"10",
       "month":"10",
       "year":"2024",
-      "title":"Website created locally",
+      "title":"Working prototype",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":""
-   },
-   {
-      "day":"9",
-      "month":"10",
-      "year":"2024",
-      "title":"Video Player prototype",
-	  "category":"website",
-	  "headerimage":"",
-	  "newscomment":""
+	  "newscomment":"Website created locally with basic design and functions. Research and experiments continue."
    },
    {
       "day":"24",
       "month":"7",
       "year":"2024",
-      "title":"Website early prototype",
+      "title":"Early prototype",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Early development of this website made of basic HTML/CSS at local drive. \n R&D of a minimalistic simple and fast art gallery solution. Particles were already added."
+	  "newscomment":"The early development of this very website made in basic HTML/CSS stored at local drive. \n Main goal is to create independent, simple and fast working gallery for my artworks."
    }
    ]
 }
