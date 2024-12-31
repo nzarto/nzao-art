@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"31",
+      "month":"12",
+      "year":"2024",
+      "title":"Kaela Art",
+	  "category":"art",
+	  "headerimage":"",
+	  "newscomment":"Full set illustrations of Kaela has been finished & published with various backgrounds (Cyberworld, Desert, Red), plus lineart."
+   },
+   {
       "day":"23",
       "month":"12",
       "year":"2024",
