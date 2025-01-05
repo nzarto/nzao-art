@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"5",
+      "month":"1",
+      "year":"2025",
+      "title":"Gallery improvements",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Gallery artworks and thumbnails loading speed increased by 400%. Various minor bugs fixed."
+   },
+   {
       "day":"31",
       "month":"12",
       "year":"2024",
