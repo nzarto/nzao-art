@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"9",
+      "month":"1",
+      "year":"2025",
+      "title":"Princess Art",
+	  "category":"art",
+	  "headerimage":"",
+	  "newscomment":"A full set of Princess Illustrations is finally finished and added to the gallery."
+   },
+   {
       "day":"5",
       "month":"1",
       "year":"2025",
