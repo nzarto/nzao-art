@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"30",
+      "month":"1",
+      "year":"2025",
+      "title":"IRyS Art",
+	  "category":"art",
+	  "headerimage":"",
+	  "newscomment":"IRyS Illustrations full set has been finished and added to the gallery."
+   },
+   {
       "day":"9",
       "month":"1",
       "year":"2025",
