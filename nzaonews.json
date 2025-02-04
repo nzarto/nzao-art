@@ -1,13 +1,22 @@
 {
    "news":[
    {
+      "day":"4",
+      "month":"2",
+      "year":"2025",
+      "title":"Marisa & Hannah Art",
+	  "category":"art",
+	  "headerimage":"",
+	  "newscomment":"Marisa (fanart 2023) & Hannah (OC, 2024) Illustrations has been polished and added to the F18-gallery."
+   },
+   {
       "day":"30",
       "month":"1",
       "year":"2025",
       "title":"IRyS Art",
 	  "category":"art",
 	  "headerimage":"",
-	  "newscomment":"IRyS Illustrations full set has been finished and added to the gallery."
+	  "newscomment":"IRyS Illustrations full set has been finished and added to the R18-gallery."
    },
    {
       "day":"9",
@@ -16,7 +25,7 @@
       "title":"Princess Art",
 	  "category":"art",
 	  "headerimage":"",
-	  "newscomment":"A full set of Princess Illustrations is finally finished and added to the gallery."
+	  "newscomment":"A full set of Princess Illustrations is finally finished and added to the galleries."
    },
    {
       "day":"5",
@@ -34,7 +43,7 @@
       "title":"Kaela Art",
 	  "category":"art",
 	  "headerimage":"",
-	  "newscomment":"Illustrations set of Kaela has been finished and added to gallery."
+	  "newscomment":"Illustrations set of Kaela has been finished and added to all S/R18/F18 galleries."
    },
    {
       "day":"23",
