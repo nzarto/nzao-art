@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"8",
+      "month":"2",
+      "year":"2025",
+      "title":"Gallery Fixes",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Gallery's minor bugs fixes, Code optimization for slide buttons and lineart filters."
+   },
+   {
       "day":"7",
       "month":"2",
       "year":"2025",
