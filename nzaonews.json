@@ -1,6 +1,24 @@
 {
    "news":[
    {
+      "day":"16",
+      "month":"2",
+      "year":"2025",
+      "title":"Codework",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Calendar code minor optimizations for touch sreens. New Warning slider has been added with particles visible. Gallery page's content loading order now in place."
+   },
+   {
+      "day":"14",
+      "month":"2",
+      "year":"2025",
+      "title":"Galleries Boost",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Gallery Art loading reduced x2 times due to the newest formats/procedures. So the overall loading speed boost is now 2169% faster which is just ridiculous."
+   },
+   {
       "day":"9",
       "month":"2",
       "year":"2025",
