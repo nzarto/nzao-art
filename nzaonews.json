@@ -1,13 +1,22 @@
 {
    "news":[
    {
-      "day":"16",
+      "day":"23",
+      "month":"2",
+      "year":"2025",
+      "title":"Codework More",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Thousands of code fixes across all pages. Calendar wheel control is now precise. Manual added to Timer. Touchscreen and Mouse drag features added to Gallery, + new buttons for Zoom and Pan."
+   },
+   {
+      "day":"17",
       "month":"2",
       "year":"2025",
       "title":"Codework",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Calendar code minor optimizations for touch sreens. New Warning slider has been added with particles visible. Gallery page's content loading order is now in place."
+	  "newscomment":"Hundreds of code optimizations and cleaning across all pages, some new graphics added."
    },
    {
       "day":"14",
