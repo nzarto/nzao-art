@@ -4,6 +4,15 @@
       "day":"14",
       "month":"3",
       "year":"2025",
+      "title":"Fullscreen and Download",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Two new buttons added to the gallery's viewer. Fullscreen button expands image on max vertically. And Download button saves image to your local drive with a proper name."
+   },
+   {
+      "day":"14",
+      "month":"3",
+      "year":"2025",
       "title":"Botan with RPG Colored",
 	  "category":"art",
 	  "headerimage":"",
