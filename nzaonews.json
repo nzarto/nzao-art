@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"18",
+      "month":"3",
+      "year":"2025",
+      "title":"Stream Server QOL",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Stream page is now remembers your chosen server settings for future sessions. Don't need to select it every time now which is great."
+   },
+   {
       "day":"14",
       "month":"3",
       "year":"2025",
