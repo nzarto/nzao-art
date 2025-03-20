@@ -1,13 +1,22 @@
 {
    "news":[
    {
+      "day":"20",
+      "month":"3",
+      "year":"2025",
+      "title":"Botan lay set",
+	  "category":"art",
+	  "headerimage":"",
+	  "newscomment":"A full colored illustrations set of Botan laying on her side has been finished and added to all Galleries. Linearts updated as well."
+   },
+   {
       "day":"18",
       "month":"3",
       "year":"2025",
       "title":"Stream Server QOL",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Stream page is now remembers your chosen server settings for future sessions. Don't need to select it every time now which is great."
+	  "newscomment":"Stream page is now remembers your chosen server settings for future sessions. Number of multi-streams increased from 4 to 6."
    },
    {
       "day":"14",
@@ -31,10 +40,10 @@
       "day":"7",
       "month":"3",
       "year":"2025",
-      "title":"Botan lay on side",
+      "title":"Botan lay lineart",
 	  "category":"art",
 	  "headerimage":"",
-	  "newscomment":"A Full Set of Botan lay on side Lineart has been finished and added to all Galleries."
+	  "newscomment":"A lineart set of Botan laying on her side has been finished and added to all Galleries."
    },
    {
       "day":"23",
