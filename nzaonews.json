@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"22",
+      "month":"3",
+      "year":"2025",
+      "title":"YouTube Thumbs Page",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"A new YouTube Thumbnails Page has been added into Service."
+   },
+   {
       "day":"20",
       "month":"3",
       "year":"2025",
