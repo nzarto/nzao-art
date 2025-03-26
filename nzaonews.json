@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"26",
+      "month":"3",
+      "year":"2025",
+      "title":"Thumbs Page and Particles tweak",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"The Thumbs Page now loads the maximum thumb size available from YT servers. Particles effects are now dynamic and based on current month/season (snow, fire, dust, etc)."
+   },
+   {
       "day":"22",
       "month":"3",
       "year":"2025",
