@@ -372,17 +372,16 @@
    }
    ],
    [{
-	  "urlhd":"https://i.postimg.cc/qpXZRFFQ/Fubuki.webp",
-	  "urlfull":"https://i.postimg.cc/jK3q3xfM/Fubuki.webp",
-      "urltmb":"https://i.postimg.cc/CM33yQSx/Fubuki.webp",
+	  "urlfull":"https://i.postimg.cc/TfMnNJ2X/Fubuki.webp",
+      "urltmb":"https://i.postimg.cc/htC73xDJ/Fubuki.webp",
 	  "addroll":"yes",
       "name":"Fubuki",
       "year":"2024",
 	  "tags":["sfw","color","fanart","Hololive","Fubuki"]
    },
    {
-	  "urlfull":"https://i.postimg.cc/BsnQCLj8/Fubuki-Lineart.webp",
-      "urltmb":"https://i.postimg.cc/BZLrV0Wz/Fubuki-Lineart.webp",
+	  "urlfull":"https://i.postimg.cc/JmBbQ2Lq/Fubuki-Lineart.webp",
+      "urltmb":"https://i.postimg.cc/vZ8VzXsF/Fubuki-Lineart.webp",
 	  "addroll":"yes",
       "name":"Fubuki",
       "year":"2024",
@@ -405,18 +404,34 @@
 	  "tags":["r18","color","fanart","Hololive","Kaela","Hajime"]
    }],
    [{
-      "urlfull":"https://i.postimg.cc/rVCc9ckN/Lewd.webp",
-      "urltmb":"https://i.postimg.cc/Sx8HN7Qf/Lewd.webp",
+      "urlfull":"https://i.postimg.cc/1yGYXztL/Lewd.webp",
+      "urltmb":"https://i.postimg.cc/Fsggr7Zp/Lewd.webp",
 	  "addroll":"yes",
       "name":"Lewd",
       "year":"2024",
 	  "tags":["r18","color","oc"]
    },
    {
-      "urlfull":"https://i.postimg.cc/SQS4T5QF/Lewd-Lineart.webp",
-      "urltmb":"https://i.postimg.cc/MzMSF1wT/Lewd-Lineart.webp",
+      "urlfull":"https://i.postimg.cc/X4yPML0N/Lewd-Lineart.webp",
+      "urltmb":"https://i.postimg.cc/qMdxH88g/Lewd-Lineart.webp",
 	  "addroll":"yes",
-      "name":"Lewd",
+      "name":"Lewd Lineart",
+      "year":"2024",
+	  "tags":["r18","lineart","oc"]
+   },
+   {
+      "urlfull":"https://i.postimg.cc/qpV5pKks/Lewd-Lineart-Full.webp",
+      "urltmb":"https://i.postimg.cc/T3tVbFBW/Lewd-Lineart-Full.webp",
+	  "addroll":"yes",
+      "name":"Lewd Lineart Full",
+      "year":"2024",
+	  "tags":["r18","lineart","oc"]
+   },
+   {
+      "urlfull":"https://i.postimg.cc/9VkkNSKN/Lewd-Lineart-Full-Coll.webp",
+      "urltmb":"https://i.postimg.cc/wjq57g4p/Lewd-Lineart-Full-Coll.webp",
+	  "addroll":"yes",
+      "name":"Lewd Lineart Full Coll",
       "year":"2024",
 	  "tags":["r18","lineart","oc"]
    }
