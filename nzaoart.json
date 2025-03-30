@@ -372,7 +372,8 @@
    }
    ],
    [{
-      "urlfull":"https://i.postimg.cc/jK3q3xfM/Fubuki.webp",
+	  "urlhd":"https://i.postimg.cc/qpXZRFFQ/Fubuki.webp",
+	  "urlfull":"https://i.postimg.cc/jK3q3xfM/Fubuki.webp",
       "urltmb":"https://i.postimg.cc/CM33yQSx/Fubuki.webp",
 	  "addroll":"yes",
       "name":"Fubuki",
