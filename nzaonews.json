@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"29",
+      "month":"3",
+      "year":"2025",
+      "title":"Zoom feature",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Added scroll wheel Zoom feature when in Pan mode."
+   },
+   {
       "day":"26",
       "month":"3",
       "year":"2025",
