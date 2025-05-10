@@ -1,6 +1,24 @@
 {
    "news":[
    {
+      "day":"1",
+      "month":"22",
+      "year":"2025",
+      "title":"Cr.H Protocols",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Data security and handling has been improved."
+   },
+   {
+      "day":"1",
+      "month":"4",
+      "year":"2025",
+      "title":"WEBP/JPG",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"WEB/JPG Switcher introduced, it loads from 2 different image hosts in case if one goes down (happened before). Conversion of all art pieces into JPG will take some time tho."
+   },
+   {
       "day":"29",
       "month":"3",
       "year":"2025",
