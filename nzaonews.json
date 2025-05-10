@@ -1,6 +1,15 @@
 {
    "news":[
    {
+      "day":"10",
+      "month":"5",
+      "year":"2025",
+      "title":"AutoFister",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Gallery Automatta Getto. Remembers and then load the gallery (preference/mode) you watched last time. No more unnecessary clicks or extra codes inputs. Seamless and Smooth experience."
+   },
+   {
       "day":"22",
       "month":"4",
       "year":"2025",
