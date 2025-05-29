@@ -1,13 +1,22 @@
 {
    "news":[
    {
+      "day":"29",
+      "month":"5",
+      "year":"2025",
+      "title":"WEBP/JPG sRGB HD",
+	  "category":"art",
+	  "headerimage":"",
+	  "newscomment":"Conversion of all art pieces into JPG is finished. Resolutions is increased to 2K. Color Profiles are perfectly adapted into sRGB, means the colors you see here should be the exact ones I see when I paint them."
+   },
+   {
       "day":"10",
       "month":"5",
       "year":"2025",
       "title":"AutoFister",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Gallery Automatta. Remembers and load the last gallery preference. No more extra clicks or code inputs. Seamless and smooth experience."
+	  "newscomment":"Gallery Automatta. Remembers and load the last gallery preference. No more extra clicks or code inputs. Seamless and smooth experience as intended."
    },
    {
       "day":"22",
@@ -25,7 +34,7 @@
       "title":"WEBP/JPG",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"WEB/JPG Switcher introduced, it loads from 2 different image hosts in case if one goes down (happened before). Conversion of all art pieces into JPG will take some time tho."
+	  "newscomment":"WEBP/JPG Switcher introduced, it loads from 2 different image hosts in case if one goes down (happened before). Conversion of all art pieces into JPG will take some time tho."
    },
    {
       "day":"29",
