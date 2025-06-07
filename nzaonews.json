@@ -1,5 +1,14 @@
 {
    "news":[
+      {
+      "day":"7",
+      "month":"6",
+      "year":"2025",
+      "title":"Small Fixes",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Fixed gallery's double-bounce on window resize (the problem was caused by CSS, which is unusual). Download button for JPG is working perfectly now."
+   },
    {
       "day":"29",
       "month":"5",
