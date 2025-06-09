@@ -1,6 +1,15 @@
 {
    "news":[
-      {
+   {
+      "day":"9",
+      "month":"6",
+      "year":"2025",
+      "title":"Ojou Gallery tsk dose fulfilled",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Next/Previous images now shows up for sliding gestures. Zoom level is now consistent during sliding. Added keybinds for the gallery: Arrows Left/Right to slide, Space to Zoom, Esc/Backspace to Close (more will be added, including for Stream page as well). Hundrends of minor fixes and code optimization."
+   },
+   {
       "day":"7",
       "month":"6",
       "year":"2025",
