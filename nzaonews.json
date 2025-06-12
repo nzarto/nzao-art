@@ -1,13 +1,22 @@
 {
    "news":[
    {
+      "day":"12",
+      "month":"6",
+      "year":"2025",
+      "title":"QoF and fixes",
+	  "category":"website",
+	  "headerimage":"",
+	  "newscomment":"Added Alts selector for the gallery viewer (Mouse click or Arrows Up/Down keys). Added hotkeys for Stream Page (Numbers from 1 to 6 for select channels, Plus and Minus keys to add/remove channels. Num 0 for 'Move' mode). Buttons clicks animations improved."
+   },
+   {
       "day":"9",
       "month":"6",
       "year":"2025",
       "title":"Ojou Gallery tsk dose fulfilled",
 	  "category":"website",
 	  "headerimage":"",
-	  "newscomment":"Next/Previous images for sliding gestures. Zoom level is now consistent. Added keybinds for the gallery viewer: Arrows to slide, Space to Zoom, Esc/Backspace to Close. Hundrends minor fixes and code optimization."
+	  "newscomment":"Next/Previous images for sliding gestures. Zoom level is now consistent. Added hotkeys for the gallery viewer: Arrows to slide, Space to Zoom, Esc/Backspace to Close. Hundrends minor fixes and code optimization."
    },
    {
       "day":"7",
