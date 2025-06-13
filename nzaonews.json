@@ -5,7 +5,7 @@
       "month":"6",
       "year":"2025",
       "title":"QoF and fixes",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Added Alts selector for the gallery viewer (Mouse click or Arrows Up/Down keys). Added hotkeys for Stream Page (Numbers from 1 to 6 for select channels, Plus and Minus keys to add/remove channels. Num 0 for 'Move' mode). Buttons clicks animations improved."
    },
@@ -14,7 +14,7 @@
       "month":"6",
       "year":"2025",
       "title":"Ojou Gallery tsk dose fulfilled",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Next/Previous images for sliding gestures. Zoom level is now consistent. Added hotkeys for the gallery viewer: Arrows to slide, Space to Zoom, Esc/Backspace to Close. Hundrends minor fixes and code optimization."
    },
@@ -23,7 +23,7 @@
       "month":"6",
       "year":"2025",
       "title":"Small Fixes",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Fixed gallery's double-bounce on window resize (the problem was caused by CSS, which is unusual). Download button for JPG is working perfectly now."
    },
@@ -41,7 +41,7 @@
       "month":"5",
       "year":"2025",
       "title":"AutoFister",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Gallery Automatta. Remembers and load the last gallery preference. No more extra clicks or code inputs. Seamless and smooth experience as intended."
    },
@@ -50,7 +50,7 @@
       "month":"4",
       "year":"2025",
       "title":"Cr.H Protocols",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Data security and handling has been improved."
    },
@@ -59,7 +59,7 @@
       "month":"4",
       "year":"2025",
       "title":"WEBP/JPG",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"WEBP/JPG Switcher introduced, it loads from 2 different image hosts in case if one goes down (happened before). Conversion of all art pieces into JPG will take some time tho."
    },
@@ -68,7 +68,7 @@
       "month":"3",
       "year":"2025",
       "title":"Zoom feature",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Added scroll wheel Zoom feature when in Pan mode."
    },
@@ -77,7 +77,7 @@
       "month":"3",
       "year":"2025",
       "title":"Thumbs Page and Particles tweak",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"The Thumbs Page now loads the maximum thumb size available from YT servers. Particles effects are now dynamic and based on current month/season (snow, fire, dust, etc)."
    },
@@ -86,7 +86,7 @@
       "month":"3",
       "year":"2025",
       "title":"YouTube Thumbs Page",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"A new YouTube Thumbnails Page has been added into Service."
    },
@@ -104,7 +104,7 @@
       "month":"3",
       "year":"2025",
       "title":"Stream Server QOL",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Stream page is now remembers your chosen server settings for future sessions. Number of multi-streams increased from 4 to 6."
    },
@@ -113,7 +113,7 @@
       "month":"3",
       "year":"2025",
       "title":"Fullscreen and Download",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Two new buttons Fullscreen and Download added to the gallery's viewer."
    },
@@ -140,7 +140,7 @@
       "month":"2",
       "year":"2025",
       "title":"Codework More",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Thousands of code fixes across all pages. Calendar wheel control is now precise. Manual added to Timer. Touchscreen and Mouse drag features added to Gallery, + new buttons for Zoom and Pan."
    },
@@ -149,7 +149,7 @@
       "month":"2",
       "year":"2025",
       "title":"Codework",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Hundreds of code optimizations and cleaning across all pages, some new graphics added."
    },
@@ -158,7 +158,7 @@
       "month":"2",
       "year":"2025",
       "title":"Galleries Boost",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Gallery Art loading reduced x2 times due to the newest formats/procedures. So the overall loading speed boost is now 2169% faster which is just ridiculous."
    },
@@ -176,7 +176,7 @@
       "month":"2",
       "year":"2025",
       "title":"Gallery Fixes",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Gallery's minor bugs fixes, Code optimization for slide buttons and lineart filters."
    },
@@ -221,7 +221,7 @@
       "month":"1",
       "year":"2025",
       "title":"Gallery improvements",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Gallery artworks and thumbnails loading speed increased by 400%. Various minor bugs fixed."
    },
@@ -239,7 +239,7 @@
       "month":"12",
       "year":"2024",
       "title":"News Added",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"The News Page created. Code optimizations across other pages."
    },
@@ -248,7 +248,7 @@
       "month":"12",
       "year":"2024",
       "title":"Stream Page Finished",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Stream Page is fully developed, Filters added, everything works perfectly."
    },
@@ -257,7 +257,7 @@
       "month":"12",
       "year":"2024",
       "title":"Multi-Streams added",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Now it's possible to watch up to 4 streams at the same time. Massive life quality improvement."
    },
@@ -266,7 +266,7 @@
       "month":"12",
       "year":"2024",
       "title":"Help Feature added",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Added manual for Stream Page."
    },
@@ -275,7 +275,7 @@
       "month":"12",
       "year":"2024",
       "title":"Images Optimization",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Art, thumbnails and web graphic are now loading 700% faster."
    },
@@ -293,7 +293,7 @@
       "month":"12",
       "year":"2024",
       "title":"Gallery improved farther",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"Massive work has been done. Gallery now has all necessary tech and should work perfectly across all devices."
    },
@@ -302,16 +302,16 @@
       "month":"11",
       "year":"2024",
       "title":"Fonts added",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"Website is now using multiple fancy looking graffiti and inking style fonts."
+	  "newscomment":"web is now using multiple fancy looking graffiti and inking style fonts."
    },
    {
       "day":"7",
       "month":"11",
       "year":"2024",
       "title":"Calendar Page",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
 	  "newscomment":"A new Calendar Page has been added. It has a week disk calculator for mid and long term planning."
    },
@@ -319,28 +319,28 @@
       "day":"3",
       "month":"11",
       "year":"2024",
-      "title":"Website Deployed",
-	  "category":"website",
+      "title":"web Deployed",
+	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"First ever deployment of stable prototype. Website is now Public and has Gallery and Timer Pages to offer."
+	  "newscomment":"First ever deployment of stable prototype. web is now Public and has Gallery and Timer Pages to offer."
    },
    {
       "day":"10",
       "month":"10",
       "year":"2024",
       "title":"Working prototype",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"Website created locally with basic design and functions."
+	  "newscomment":"web created locally with basic design and functions."
    },
    {
       "day":"24",
       "month":"7",
       "year":"2024",
       "title":"Early prototype",
-	  "category":"website",
+	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"The early development of this very website made in basic HTML/CSS stored at local drive."
+	  "newscomment":"The early development of this very web made in basic HTML/CSS stored at local drive."
    }
    ]
 }
