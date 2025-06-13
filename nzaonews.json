@@ -277,7 +277,7 @@
       "title":"Images Optimization",
 	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"Art, thumbnails and web graphic are now loading 700% faster."
+	  "newscomment":"Art, thumbnails and website graphic are now loading 700% faster."
    },
    {
       "day":"11",
@@ -304,7 +304,7 @@
       "title":"Fonts added",
 	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"web is now using multiple fancy looking graffiti and inking style fonts."
+	  "newscomment":"Website is now using multiple fancy looking graffiti and inking style fonts."
    },
    {
       "day":"7",
@@ -319,10 +319,10 @@
       "day":"3",
       "month":"11",
       "year":"2024",
-      "title":"web Deployed",
+      "title":"Website Deployed",
 	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"First ever deployment of stable prototype. web is now Public and has Gallery and Timer Pages to offer."
+	  "newscomment":"First ever deployment of stable prototype. Website is now Public and has Gallery and Timer Pages to offer."
    },
    {
       "day":"10",
@@ -331,7 +331,7 @@
       "title":"Working prototype",
 	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"web created locally with basic design and functions."
+	  "newscomment":"Website created locally with basic design and functions."
    },
    {
       "day":"24",
@@ -340,7 +340,7 @@
       "title":"Early prototype",
 	  "category":"web",
 	  "headerimage":"",
-	  "newscomment":"The early development of this very web made in basic HTML/CSS stored at local drive."
+	  "newscomment":"The early development of this very website made in basic HTML/CSS stored at local drive."
    }
    ]
 }
