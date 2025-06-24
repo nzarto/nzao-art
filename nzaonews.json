@@ -1,13 +1,22 @@
 {
    "news": [
       {
+         "day": "24",
+         "month": "6",
+         "year": "2025",
+         "title": "Pixiv Situation",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Today earlier the Pixiv Sketch announced closure of their livestreaming service on August 27th.<br> Folks speculate it's due to negative revenue to cover servers, but it just rumors.<br> Official reasons unknown.<br><br> The Pixiv Streams will be detached from Stream Page on August 27."
+      },
+      {
          "day": "22",
          "month": "6",
          "year": "2025",
          "title": "Fancy Updates",
          "category": "web",
          "headerimage": "",
-         "newscomment": "Added New Lore system for art pieces (hotkey: num 0 or just click on the Title). The texts themselves gonna be filled later. <br><br> Added new dynamic visual chart for the Timer Page. New Help Pages design. <br><br> + thousand small fixes here and there."
+         "newscomment": "Added New Lore system for art pieces (hotkey: num 0 or just click on the Title). The Lore texts are gonna be filled later. <br><br> Added new dynamic visual chart for the Timer Page. New Help Pages design. <br><br> + thousand small fixes here and there."
       },
       {
          "day": "12",
