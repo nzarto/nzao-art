@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "4",
+         "month": "7",
+         "year": "2025",
+         "title": "Huge Upgrades",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Gallery mouse/touch functions are completely rewritten into much more elegant<br> 'state of art' code.<br><br>Added inertia physics on drag elements and scroll to the Art and News pages.<br><br>Hundreds of minor fixes and design improvements across website."
+      },
+      {
          "day": "26",
          "month": "6",
          "year": "2025",
