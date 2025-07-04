@@ -1,13 +1,22 @@
 {
    "news": [
       {
+         "day": "26",
+         "month": "6",
+         "year": "2025",
+         "title": "More Deployment",
+         "category": "web",
+         "headerimage": "https://i.postimg.cc/NfK7HMMQ/Deploy.webp",
+         "newscomment": "Another deployment is up.<br><br>Added starfield background animation for the Calendar Page.<br> News Page design has been improved."
+      },
+      {
          "day": "24",
          "month": "6",
          "year": "2025",
          "title": "Pixiv Situation",
          "category": "web",
-         "headerimage": "",
-         "newscomment": "Today earlier the Pixiv Sketch announced closure of their livestreaming service on August 27th.<br> Folks speculate it's due to negative revenue to cover servers, but it just rumors.<br> Official reasons unknown.<br><br> The Pixiv Streams will be detached from Stream Page on August 27."
+         "headerimage": "https://i.postimg.cc/hP2L6n7X/Pixiv-Sketch-Closure.webp",
+         "newscomment": "Today earlier the Pixiv Sketch announced closure of their livestreaming service soon.<br> Official reasons unknown.<br><br> The Pixiv Streams will be detached from Stream Page on July 30th or August 27th."
       },
       {
          "day": "22",
@@ -114,7 +123,7 @@
          "year": "2025",
          "title": "Botan lay set",
          "category": "art",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/6qVgvxS9/Botan-Lay-Color.webp",
          "newscomment": "A full colored illustrations set of Botan laying on her side has been finished and added to all Galleries. Linearts updated as well."
       },
       {
@@ -139,9 +148,9 @@
          "day": "14",
          "month": "3",
          "year": "2025",
-         "title": "Botan with RPG Colored",
+         "title": "Botan RPG Colored",
          "category": "art",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/vTGY7f3K/Botan-RPG-Color2.webp",
          "newscomment": "All 3 versions of 'Botan with RPG' has been colored and added to all Galleries."
       },
       {
@@ -150,7 +159,7 @@
          "year": "2025",
          "title": "Botan lay lineart",
          "category": "art",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/6qN5Kwnw/Botan-Lay-Line.webp",
          "newscomment": "A lineart set of Botan laying on her side has been finished and added to all Galleries."
       },
       {
@@ -184,9 +193,9 @@
          "day": "9",
          "month": "2",
          "year": "2025",
-         "title": "Botan with RPG Lineart Full Set",
+         "title": "Botan RPG Lineart",
          "category": "art",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/PJHwCXPQ/Botan-RPG-Line.webp",
          "newscomment": "A Full Set of Botan RPG's Lineart has been finished and added to all Galleries."
       },
       {
@@ -197,15 +206,6 @@
          "category": "web",
          "headerimage": "",
          "newscomment": "Gallery's minor bugs fixes, Code optimization for slide buttons and lineart filters."
-      },
-      {
-         "day": "7",
-         "month": "2",
-         "year": "2025",
-         "title": "Botan with RPG Lineart",
-         "category": "art",
-         "headerimage": "",
-         "newscomment": "Lineart from live stream published without delay to R18 Gallery."
       },
       {
          "day": "4",
@@ -249,7 +249,7 @@
          "year": "2024",
          "title": "Kaela Art",
          "category": "art",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/L8PkCQfw/Kaela2.webp",
          "newscomment": "Illustrations set of Kaela has been finished and added to all S/R18/F18 galleries."
       },
       {
@@ -303,7 +303,7 @@
          "year": "2024",
          "title": "Some Art",
          "category": "art",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/qqNy8NQ2/Kaela-Hajime-Fubuki.webp",
          "newscomment": "A bunch of my color illustrations published: Fubuki 4k, Princess, Kaela & Hajime, Lwd (oc). Lineart: Marisa, Bunny Heart, Axcel, Ankha, Kanata. "
       },
       {
@@ -339,7 +339,7 @@
          "year": "2024",
          "title": "Website Deployed",
          "category": "web",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/NfK7HMMQ/Deploy.webp",
          "newscomment": "First ever deployment of stable prototype. Website is now Public and has Gallery and Timer Pages to offer."
       },
       {
@@ -349,7 +349,7 @@
          "title": "Working prototype",
          "category": "web",
          "headerimage": "",
-         "newscomment": "Website created locally with basic design and functions."
+         "newscomment": "Website created locally with design and functions based on HTML/CSS/Javascript. <br>OG Legacy approach proven by time."
       },
       {
          "day": "24",
@@ -358,7 +358,7 @@
          "title": "Early prototype",
          "category": "web",
          "headerimage": "",
-         "newscomment": "The early development of this very website made in basic HTML/CSS stored at local drive."
+         "newscomment": "Early tests and development in basic HTML/CSS stored at local drive environment."
       }
    ]
 }
