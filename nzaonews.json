@@ -1,6 +1,24 @@
 {
    "news": [
       {
+         "day": "12",
+         "month": "7",
+         "year": "2025",
+         "title": "Fox Pi Lineart",
+         "category": "art",
+         "headerimage": "https://i.postimg.cc/cLMS2Tkq/PiFox.webp",
+         "newscomment": "An Updated sketch of my OC Fox Girl Soldier added to R18 gallery."
+      },
+      {
+         "day": "6",
+         "month": "7",
+         "year": "2025",
+         "title": "Huge Breakthrough",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "An automatic image scaler/converter has been developed, based on Javascript/Canvas/Base64/Zip.<br><br>It's a very specific personalized tool takes my Art .png Images and converts them to various sizes (4p, 1k, 2k) and formats (.webp, .jpeg) required for the gallery.<br><br>Before it was taking hours to do this manually - now I just simply press 1 button and can get back to drawing instead, yay!"
+      },
+      {
          "day": "4",
          "month": "7",
          "year": "2025",
