@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "18",
+         "month": "7",
+         "year": "2025",
+         "title": "Logo Font",
+         "category": "web",
+         "headerimage": "https://i.postimg.cc/wvgW0pzM/LogoFont.webp",
+         "newscomment": "A new special vector font for Logo has been created, called 'Inzation'.<br><br>The logo text already looks much sharper than PNG image used before. All sort of effects are now possible like Glitch, Chromatic aberration, etc."
+      },
+      {
          "day": "15",
          "month": "7",
          "year": "2025",
@@ -267,7 +276,7 @@
          "year": "2025",
          "title": "IRyS Art",
          "category": "art",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/L6jGBRrd/Irys.webp",
          "newscomment": "IRyS Illustrations full set has been finished and added to the R18-gallery."
       },
       {
@@ -276,7 +285,7 @@
          "year": "2025",
          "title": "Princess Art",
          "category": "art",
-         "headerimage": "",
+         "headerimage": "https://i.postimg.cc/Z0knkZct/Princess.webp",
          "newscomment": "A full set of Princess Illustrations is finally finished and added to the galleries."
       },
       {
@@ -348,7 +357,7 @@
          "year": "2024",
          "title": "Some Art",
          "category": "art",
-         "headerimage": "https://i.postimg.cc/qqNy8NQ2/Kaela-Hajime-Fubuki.webp",
+         "headerimage": "https://i.postimg.cc/Zq6b24sp/LWDHajime-Fubuki.webp",
          "newscomment": "A bunch of my color illustrations published: Fubuki 4k, Princess, Kaela & Hajime, Lwd (oc). Lineart: Marisa, Bunny Heart, Axcel, Ankha, Kanata. "
       },
       {
