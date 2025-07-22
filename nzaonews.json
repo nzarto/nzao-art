@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "22",
+         "month": "7",
+         "year": "2025",
+         "title": "Gallery Scroll",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Gallery is now scrollable for Desktops by mouse drag, exactly like you do on Mobile devices with touch, including physics inertia."
+      },
+      {
          "day": "21",
          "month": "7",
          "year": "2025",
