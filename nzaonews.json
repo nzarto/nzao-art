@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "25",
+         "month": "7",
+         "year": "2025",
+         "title": "Gallery Code Rewritten",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Gallery code made into state of art. <br><br> About thousand Javascript lines been completely rewritten from classes into direct JSON requests for constuctors/operators.<br><br>You may notice that everything works super fast now. The overall speed boost is 9895%."
+      },
+      {
          "day": "22",
          "month": "7",
          "year": "2025",
