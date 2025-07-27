@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "27",
+         "month": "7",
+         "year": "2025",
+         "title": "Logo Glitch",
+         "category": "web",
+         "headerimage": "https://i.postimg.cc/Pxw1vQTc/Logo-Glitch.webp",
+         "newscomment": "Logo glitch effect has been added to welcome screen. <br><br>To see it you need to reset an auto-skip system, by pressing 'Settings -> Clear Temp Data' and then click on the logo top left."
+      },
+      {
          "day": "25",
          "month": "7",
          "year": "2025",
