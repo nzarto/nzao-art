@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "29",
+         "month": "7",
+         "year": "2025",
+         "title": "Loading Animation",
+         "category": "web",
+         "headerimage": "https://i.postimg.cc/tTbt6SRf/Loading-Gif.webp",
+         "newscomment": "Gallery's Image loading animation has been added. <br>It also shows an error in case of any issue."
+      },
+      {
          "day": "27",
          "month": "7",
          "year": "2025",
