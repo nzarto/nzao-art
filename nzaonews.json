@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "14",
+         "month": "8",
+         "year": "2025",
+         "title": "Night Mode",
+         "category": "web",
+         "headerimage": "https://i.postimg.cc/T3v0X4qs/DayNight.webp",
+         "newscomment": "Day/Night mode added to all pages. You can switch it manually in 'Settings' menu.<br>Some pages has Night mode by default, such as Calendar and Stream.<br><br>State is not saved as for now, automatic switch mode is under consideration.<br>"
+      },
+      {
          "day": "12",
          "month": "8",
          "year": "2025",
