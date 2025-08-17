@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "17",
+         "month": "8",
+         "year": "2025",
+         "title": "Art Data Impoved",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Database architecture improved, saving 30% space and speed up a bit.<br><br>Gallery Filters for Lineart/Color now working as intended.<br><br>Additionally some tools been developed for website maintenance."
+      },
+      {
          "day": "15",
          "month": "8",
          "year": "2025",
