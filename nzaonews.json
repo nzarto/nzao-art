@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "27",
+         "month": "8",
+         "year": "2025",
+         "title": "Pixiv Sketch is Out",
+         "category": "life",
+         "headerimage": "",
+         "newscomment": "The Pixiv Sketch streaming platform has been officially closed today, at 3pm JST after 8 years of work.<br><br>Pixiv button (first added Nov 10 2024) is now disabled from Stream Page.<br><br>Leftover code gonna be revisioned a little bit later."
+      },
+      {
          "day": "17",
          "month": "8",
          "year": "2025",
@@ -505,5 +514,4 @@
          "newscomment": "Early tests and development in basic HTML/CSS stored at local drive environment."
       }
    ]
-
 }
