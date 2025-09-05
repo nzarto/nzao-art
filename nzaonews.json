@@ -1,11 +1,29 @@
 {
    "news": [
       {
+         "day": "5",
+         "month": "9",
+         "year": "2025",
+         "title": "Home after Reanimation",
+         "category": "life",
+         "headerimage": "",
+         "newscomment": "One week after the operation and intense rehabilitation been delivered back to home. Health condition is now great."
+      },
+      {
+         "day": "29",
+         "month": "8",
+         "year": "2025",
+         "title": "Hospitalized, almost died",
+         "category": "life",
+         "headerimage": "",
+         "newscomment": "At 15-16PM was hospitalized to 20km west from my current deep forest location after 3 days of severe food poisoning, pain and spasms.<br><br> Multiple organ failures were registered with liters of black goo rushing into abdomen cavity in a chain effect.<br><br> Emergency surgery operation lasted for 3 hours by crew of 15"
+      },
+      {
          "day": "27",
          "month": "8",
          "year": "2025",
          "title": "Pixiv Sketch is Out",
-         "category": "life",
+         "category": "web",
          "headerimage": "",
          "newscomment": "The Pixiv Sketch streaming platform has been officially closed today, at 3pm JST after 8 years of work.<br><br>Pixiv button (first added Nov 10 2024) is now disabled from Stream Page.<br><br>Leftover code gonna be revisioned a little bit later."
       },
