@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "12",
+         "month": "9",
+         "year": "2025",
+         "title": "Cloe Art",
+         "category": "art",
+         "headerimage": "https://i.postimg.cc/hvK1XbQY/Cloe.webp",
+         "newscomment": "Cloe (Kuroinu) Full Art Set finished and added to all Galleries (4 color + 8 lineart)."
+      },
+      {
          "day": "5",
          "month": "9",
          "year": "2025",
