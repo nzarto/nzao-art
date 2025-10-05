@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "5",
+         "month": "10",
+         "year": "2025",
+         "title": "Infinite Scroll",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Infinite Scroll has been developed and added to the News and Gallery Pages.<br><br>It loads the exact amount of content to fill the screen initially, then adds the rest as you scroll down in small portions.<br><br>Pages loading extremely fast while also saving lots of traffic now and in the future."
+      },
+      {
          "day": "2",
          "month": "10",
          "year": "2025",
