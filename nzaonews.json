@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "18",
+         "month": "10",
+         "year": "2025",
+         "title": "Piczel Connected",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Piczel Streaming Service has been added to the Stream Page.<br><br>To use the service some Browser Extension required called<br> 'Access-Control-Allow-Origin', or similar. To bypass hls/cors artificial limitations.<br><br>When the Extension is ON the Piczel's streams should be loading and showing normally.<br><br>Additionally, a 'VLS' button has been added to get stream's direct links for players like VLS, to watch them outside of the browser."
+      },
+      {
          "day": "10",
          "month": "10",
          "year": "2025",
