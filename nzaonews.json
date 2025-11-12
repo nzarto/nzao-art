@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "12",
+         "month": "11",
+         "year": "2025",
+         "title": "Bug fixes",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Yoinked some iPhones from my rich friends to test website, especially the touch behaviour.<br><br>As a result some bug fixes for Gallery and News sections has been implemented. Scrolling should be good now for both Desktop and Mobile."
+      },
+      {
          "day": "8",
          "month": "11",
          "year": "2025",
