@@ -1,5 +1,15 @@
 {
    "news": [
+      
+      {
+         "day": "9",
+         "month": "1",
+         "year": "2026",
+         "title": "HoloFuta",
+         "category": "web",
+         "headerimage": "https://i.postimg.cc/j2Q6XdZT/Holo-Futa.webp",
+         "newscomment": "A New Page of HoloFuta Project is deployed<br>(should be visible at top menu, when in R18 mode).<br><br>The idea initially started as excel sheets now properly programmed.<br>A Hololive Vtubers database in futa setting with tons of features, filters, lore and so on.<br><br>You can check how your oshi is performing compared to others and in general.<br><br>New content is constantly being developed, tested and added for this one."
+      },
       {
          "day": "21",
          "month": "12",
