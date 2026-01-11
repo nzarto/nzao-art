@@ -1,6 +1,14 @@
 {
    "news": [
-      
+      {
+         "day": "11",
+         "month": "1",
+         "year": "2026",
+         "title": "Goldship Art",
+         "category": "art",
+         "headerimage": "https://i.postimg.cc/BbwYwbZW/Goldship-K.webp",
+         "newscomment": "Goldship Lineart Set finished and added to R18 & FT Galleries (11 lineart)."
+      },
       {
          "day": "9",
          "month": "1",
