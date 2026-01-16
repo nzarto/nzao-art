@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "16",
+         "month": "1",
+         "year": "2026",
+         "title": "Improvements",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Top menu rewritten as construct so now it loads on all pages dynamically (which is a big deal in logistic sense).<br><br>Scrollers modified to work twice more efficient. Plus hundreds smaller optimizations across website."
+      },
+      {
          "day": "11",
          "month": "1",
          "year": "2026",
