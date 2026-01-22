@@ -1,6 +1,33 @@
 {
    "news": [
       {
+         "day": "22",
+         "month": "1",
+         "year": "2026",
+         "title": "Subaru Art",
+         "category": "art",
+         "headerimage": "https://i.postimg.cc/CLRDt4RW/Subaru.webp",
+         "newscomment": "Subaru (from Hololive) Lineart finished and added to R18 Gallery (2 lineart)."
+      },
+      {
+         "day": "21",
+         "month": "1",
+         "year": "2026",
+         "title": "Bunny Heart Art",
+         "category": "art",
+         "headerimage": "https://i.postimg.cc/gkxR5Kw9/Bunny-H.webp",
+         "newscomment": "My OC Bunny Heart set finished and added to SFW and R18 Galleries (1 color + 5 lineart"
+      },
+      {
+         "day": "19",
+         "month": "1",
+         "year": "2026",
+         "title": "Notifications",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "A popup Notifications added. They shows up on critical events like content loading, errors and such (for Gallery and News pages atm).<br><br>Encryption is now dynamic and switchable between different methods."
+      },
+      {
          "day": "16",
          "month": "1",
          "year": "2026",
