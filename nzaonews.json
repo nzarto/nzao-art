@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "5",
+         "month": "3",
+         "year": "2026",
+         "title": "State of art scrollers",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Gallery asynchonius injector is now obey chronology order linked to observer callback closure (instead of height listeners). Disconnectors also set in place.<br><br>Same made for all other Pages using Infinite scrolling. Is absolutely perfect.<br><br>Parallax added as bonus coz it's fun, plus it's math is puni puni :3"
+      },
+      {
          "day": "1",
          "month": "3",
          "year": "2026",
