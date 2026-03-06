@@ -1,6 +1,15 @@
 {
    "news": [
       {
+         "day": "6",
+         "month": "3",
+         "year": "2026",
+         "title": "Fixes",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Fonts are now getting preloaded to work super smooth.<br><br>Gallery items adjusted to be loaded one at a time till they fill the available screen space but no farther. Once scroll initiated they catch up. It's way more efficient and saves traffic.<br><br>Notifications minor bugs fixed.<br><br>Some design and cosmetic improvements are made, Ref code is dropped for now."
+      },
+      {
          "day": "5",
          "month": "3",
          "year": "2026",
