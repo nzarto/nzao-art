@@ -1,6 +1,24 @@
 {
    "news": [
       {
+         "day": "20",
+         "month": "3",
+         "year": "2026",
+         "title": "Ankha Art",
+         "category": "art",
+         "headerimage": "https://i.postimg.cc/507Rgxcf/Ankha.webp",
+         "newscomment": "Ankha (from Animal Crossing) full set finished and added to All Galleries<br> (8 color + 15 lineart)."
+      },
+      {
+         "day": "15",
+         "month": "3",
+         "year": "2026",
+         "title": "Locks added",
+         "category": "web",
+         "headerimage": "https://i.postimg.cc/RFsDdMrC/Locked.webp",
+         "newscomment": "Permament Locks has been added for Graduated Holofuta member's members, regardless of the size they had before."
+      },
+      {
          "day": "6",
          "month": "3",
          "year": "2026",
@@ -43,7 +61,7 @@
          "title": "Bunny Heart Art",
          "category": "art",
          "headerimage": "https://i.postimg.cc/gkxR5Kw9/Bunny-H.webp",
-         "newscomment": "My OC Bunny Heart set finished and added to SFW and R18 Galleries (1 color + 5 lineart"
+         "newscomment": "My OC Bunny Heart set finished and added to SFW and R18 Galleries (1 color + 5 lineart)."
       },
       {
          "day": "19",
