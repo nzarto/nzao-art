@@ -1,12 +1,22 @@
 {
    "news": [
       {
+         "day": "3",
+         "month": "4",
+         "year": "2026",
+         "title": "Vandal Art",
+         "category": "art",
+         "headerimage": "https://i.postimg.cc/dtp8XnQ5/Vandal.webp",
+         "newscomment": "Vandal (from Marathon game) full set finished and added to All Galleries<br> (17 color + 10 lineart)."
+      },
+      {
          "day": "20",
          "month": "3",
          "year": "2026",
          "title": "Ankha Art",
          "category": "art",
-         "headerimage": "https://i.postimg.cc/507Rgxcf/Ankha.webp",
+         "headerimage": "https://i.postimg.cc/B6YVpqWn/Ankha-CM.webp",
+         "r18headerimage": "https://i.postimg.cc/B6YVpqWn/Ankha-CM.webp",
          "newscomment": "Ankha (from Animal Crossing) full set finished and added to All Galleries<br> (8 color + 15 lineart)."
       },
       {
@@ -15,17 +25,9 @@
          "year": "2026",
          "title": "Locks added",
          "category": "web",
+         "r18": true,
          "headerimage": "https://i.postimg.cc/RFsDdMrC/Locked.webp",
          "newscomment": "Permament Locks has been added for Graduated Holofuta member's members, regardless of the size they had before."
-      },
-      {
-         "day": "6",
-         "month": "3",
-         "year": "2026",
-         "title": "Fixes",
-         "category": "web",
-         "headerimage": "",
-         "newscomment": "Fonts are now getting preloaded to work super smooth.<br><br>Gallery items adjusted to be loaded one at a time till they fill the available screen space but no farther. Once scroll initiated they catch up. It's way more efficient and saves traffic.<br><br>Notifications minor bugs fixed.<br><br>Some design and cosmetic improvements are made, Ref code is dropped for now."
       },
       {
          "day": "5",
@@ -95,6 +97,7 @@
          "month": "1",
          "year": "2026",
          "title": "HoloFuta",
+         "r18": true,
          "category": "web",
          "headerimage": "https://i.postimg.cc/j2Q6XdZT/Holo-Futa.webp",
          "newscomment": "A New Page of HoloFuta Project is deployed<br>(should be visible at top menu, when in R18 mode).<br><br>The idea initially started as excel sheets now properly programmed.<br>A Hololive Vtubers database in futa setting with tons of features, filters, lore and so on.<br><br>You can check how your oshi is performing compared to others and in general.<br><br>New content is constantly being developed, tested and added for this one."
