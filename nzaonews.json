@@ -4,10 +4,10 @@
          "day": "12",
          "month": "6",
          "year": "2026",
-         "title": "Images down",
+         "title": "Images, yis",
          "category": "web",
-         "headerimage": "",
-         "newscomment": "The image hosting I used to store art fell off for real this time. I'm glad they showed their true colors which actually makes things much easier for me.<br><br>I've expected this and already set the replacement with far more superior and elegant Meta-Data Cryptography tech of my own.<br><br>Also Visitor code added. It only asked once at very first visit, then system grand access automatically once you return.<br><br>In case you wanna resset the memory back to virgin state just clear the cache by pressing 'Settings -> Clear All Data'."
+         "headerimage": "VisitorCode.webp",
+         "newscomment": "A lot of optimizations made to images handling and storage.<br><br>Visitor codes added. Only asked once at very first visit, then it grand access automatically on return."
       },
       {
          "day": "27",
