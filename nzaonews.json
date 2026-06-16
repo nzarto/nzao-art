@@ -1,6 +1,24 @@
 {
    "news": [
       {
+         "day": "16",
+         "month": "6",
+         "year": "2026",
+         "title": "IRyS Cumtarget Art",
+         "category": "art",
+         "headerimage": "IRySCumdump.webp",
+         "newscomment": "IRyS Cumtarget Art set finished and added to SFW & R18 Galleries<br> (4 color + 2 lineart)."
+      },
+      {
+         "day": "16",
+         "month": "6",
+         "year": "2026",
+         "title": "Dashboard",
+         "category": "web",
+         "headerimage": "",
+         "newscomment": "Dashboard has been finally finished. It's a super advanced tool allowing me to publish artworks super fast by just few clicks.<br><br>So I can finally forget about logistics and concentrate on art itself."
+      },
+      {
          "day": "12",
          "month": "6",
          "year": "2026",
