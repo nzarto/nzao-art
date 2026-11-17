@@ -6,7 +6,14 @@
     <description>NZAO Art Updates and Activity.</description>
     <language>en-us</language>
     <atom:link href="https://nzarto.github.io/nzao-art/feed.xml" rel="self" type="application/rss+xml" />
-    <!-- mon tue wed thu fri sat sun -->
+    <!-- Mon Tue Eed Thu Fri Sat Sun -->
+    <item>
+      <title>Test Post</title>
+      <link>https://nzao.pages.dev/news</link>
+      <description>Here is the Summary of ANOTHER test post.</description>
+      <pubDate>Tue, 17 Nov 2026 07:30:00 +0300</pubDate>
+      <guid isPermaLink="false">0002</guid>
+    </item>
     <item>
       <title>Test Post</title>
       <link>https://nzao.pages.dev/news</link>
