@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://w3.org">
   <channel>
     <title>NZAO</title>
     <link>https://nzao.pages.dev</link>
     <description>NZAO Art Updates and Activity.</description>
     <language>en-us</language>
-   <atom:link href="https://nzarto.github.io/nzao-art/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nzarto.github.io/nzao-art/feed.xml" rel="self" type="application/rss+xml" />
     <!-- mon tue wed thu fri sat sun -->
     <item>
       <title>Test Post</title>
