@@ -1,18 +1,60 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://w3.org">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/pretty-feed-v3.xsl"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org"
+  xmlns:media="http://yahoo.com"
+  xmlns:atom="http://w3.org">
+
   <channel>
     <title>NZAO</title>
-    <link>https://nzao.pages.dev</link>
+    <link>https://nzao.pages.dev/</link>
     <description>NZAO Art Updates and Activity.</description>
     <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2026 08:17:00 +0300</lastBuildDate>
+    
+    <!-- Self-referencing link required for strict validation -->
     <atom:link href="https://nzarto.github.io/nzao-art/feed.xml" rel="self" type="application/rss+xml" />
-    <!-- Mon Tue Eed Thu Fri Sat Sun -->
+
+    <!-- Channel Icon / Logo (Square image, min 144x144px) -->
+    <image>
+      <url>https://nzao.pages.dev/g/NZAO.jpg</url>
+      <title>NZAO</title>
+      <link>https://nzao.pages.dev/</link>
+    </image>
+
+    <!-- START OF ITEM -->
     <item>
       <title>Stream Test Post</title>
       <link>https://picarto.tv/nzao</link>
-      <description>Here is the TEST of Art Stream post.</description>
-      <pubDate>Tue, 17 Nov 2026 07:50:00 +0300</pubDate>
-      <guid isPermaLink="false">0004</guid>
+      <guid isPermaLink="false">0005</guid>
+      <pubDate>Tue, 17 Nov 2026 08:17:00 +0300</pubDate>
+      <dc:creator>NZAO</dc:creator>
+      <category>Art</category>
+      <category>Stream</category>
+
+      <!-- Cover image for card-style RSS readers (Feedly, Inoreader, etc.) -->
+      <media:content url="https://nzao.pages.dev/g/stream.webp" medium="image" type="image/webp" />
+
+      <!-- Plain-text teaser for compact views -->
+      <description>Come and watch art stream.</description>
+
+      <!-- Full rich HTML article body -->
+      <content:encoded><![CDATA[
+        <p><img src="https://example.com" alt="Cover image description" /></p>
+        <p>Welcome to the full article! Using <strong>content:encoded</strong> lets subscribers read your entire post right inside their favorite reader.</p>
+        <h2>Why Rich Formatting Matters</h2>
+        <ul>
+          <li>Clean headings and bullet points improve readability.</li>
+          <li>Code blocks and blockquotes stand out automatically.</li>
+        </ul>
+        <blockquote>
+          <p>"RSS gives readers full control over how they consume your content."</p>
+        </blockquote>
+        <p><a href="https://example.com">Read the original post on the web &rarr;</a></p>
+      ]]></content:encoded>
     </item>
+    <!-- END OF ITEM -->
+
   </channel>
 </rss>
