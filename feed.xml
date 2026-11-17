@@ -10,6 +10,13 @@
     <item>
       <title>Test Post</title>
       <link>https://nzao.pages.dev/news</link>
+      <description>Here is the Summary of THIRD test post.</description>
+      <pubDate>Tue, 17 Nov 2026 07:35:00 +0300</pubDate>
+      <guid isPermaLink="false">0003</guid>
+    </item>
+    <item>
+      <title>Test Post</title>
+      <link>https://nzao.pages.dev/news</link>
       <description>Here is the Summary of ANOTHER test post.</description>
       <pubDate>Tue, 17 Nov 2026 07:30:00 +0300</pubDate>
       <guid isPermaLink="false">0002</guid>
