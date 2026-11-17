@@ -14,5 +14,12 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
       <guid>https://nzao.pages.dev/news</guid>
     </item>
+    <item>
+      <title>Test Post 2222</title>
+      <link>https://nzao.pages.dev/news</link>
+      <description>Here is the Summary of ANOTHEER test post.</description>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <guid>https://nzao.pages.dev/news</guid>
+    </item>
   </channel>
 </rss>
