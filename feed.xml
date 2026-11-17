@@ -27,8 +27,8 @@
     <item>
       <title>Stream Test Post</title>
       <link>https://picarto.tv/nzao</link>
-      <guid isPermaLink="false">0007</guid>
-      <pubDate>Tue, 17 Nov 2026 08:47:00 +0300</pubDate>
+      <guid isPermaLink="false">0008</guid>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 +0300</pubDate>
       <dc:creator>NZAO</dc:creator>
       <category>Art</category>
       <category>Stream</category>
@@ -42,7 +42,7 @@
       <!-- Full rich HTML article body -->
       <content:encoded><![CDATA[
         <p><img src="https://nzao.pages.dev/g/stream.webp" alt="Fubuki films you" /></p>
-        <p>Come and see NZAO at work! <strong>Art Stream session is ON<./strong> Expected duration 6+ hours.</p>
+        <p><strong>Art Stream session is ON.</strong>Come and see NZAO at work! Expected duration 6+ hours.</p>
         <h2>Drawing today:</h2>
         <ul>
           <li>Finishing OC.</li>
