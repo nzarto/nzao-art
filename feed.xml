@@ -37,7 +37,7 @@
       <description>RSS Feed added, congrats! Also, I created and added direct links system to the website, which takes you directly to the specific Art Piece from just URL address entered (aka permalinks). You can test it yourself by enterting `http://nzao.pages.dev?art=Ankha_Clothed`, or any other art piece's name this way.</description>
 
       <content:encoded><![CDATA[
-        <p><strong>RSS Feed added, congrats!<strong></p>
+        <p><strong>RSS Feed added, congrats!</strong></p>
         <p>I created and added direct links system to the website, which takes you directly to the specific Art Piece from just URL address entered (aka permalinks).</p>
 
         <p>You can test it yourself, for example:
