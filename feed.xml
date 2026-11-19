@@ -22,27 +22,46 @@
       <title>NZAO</title>
       <link>https://nzao.pages.dev/</link>
     </image>
+<!-- Mon Tue Wed Thu Fri Sat Sun -->
+<item>
+      <title>RSS Feed and Perma Links</title>
+      <link>https://nzao.pages.dev/news</link>
+      <guid isPermaLink="false">0001</guid>
+      <pubDate>Thu, 19 Nov 2026 10:00:00 +0300</pubDate>
+      <dc:creator>NZAO</dc:creator>
+      <category>News</category>
+      <category>Web</category>
 
-    <!-- START OF ITEM -->
+      <!--<media:content url="https://nzao.pages.dev/g/stream.webp" medium="image" type="image/webp" />-->
+
+      <description>RSS Feed added, congrats! Also, I created and added direct links system to the website, which takes you directly to the specific Art Piece from just URL address entered (aka permalinks). You can test it yourself by enterting `http://nzao.pages.dev?art=Ankha_Clothed`, or any other art piece's name this way.</description>
+
+      <content:encoded><![CDATA[
+        <p><strong>RSS Feed added, congrats!<strong></p>
+        <p>I created and added direct links system to the website, which takes you directly to the specific Art Piece from just URL address entered (aka permalinks).</p>
+
+        <p>You can test it yourself, for example:
+        <a href="http://nzao.pages.dev?art=Ankha_Clothed">Link to Ankha Art for example &rarr;</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- 
     <item>
-      <title>Stream Test Post</title>
+      <title>Art Stream, 17 Nov 2026</title>
       <link>https://picarto.tv/nzao</link>
-      <guid isPermaLink="false">0008</guid>
+      <guid isPermaLink="false">0009</guid>
       <pubDate>Tue, 17 Nov 2026 09:00:00 +0300</pubDate>
       <dc:creator>NZAO</dc:creator>
       <category>Art</category>
       <category>Stream</category>
 
-      <!-- Cover image for card-style RSS readers (Feedly, Inoreader, etc.) -->
       <media:content url="https://nzao.pages.dev/g/stream.webp" medium="image" type="image/webp" />
 
-      <!-- Plain-text teaser for compact views -->
-      <description>Art stream session is on.</description>
+      <description>Art stream session is on. Expected 6+ hours.</description>
 
-      <!-- Full rich HTML article body -->
       <content:encoded><![CDATA[
         <p><img src="https://nzao.pages.dev/g/stream.webp" alt="Fubuki films you" /></p>
-        <p><strong>Art Stream session is ON.</strong>Come and see NZAO at work! Expected duration 6+ hours.</p>
+        <p><strong>Art Stream session is ON.</strong> Come and see NZAO at work! Expected duration 6+ hours.</p>
         <h2>Drawing today:</h2>
         <ul>
           <li>Finishing OC.</li>
@@ -55,7 +74,7 @@
         <p><a href="https://nzao.pages.dev/stream">Link to NZAO Stream Player (no Chat but faster Video) &rarr;</a></p>
       ]]></content:encoded>
     </item>
-    <!-- END OF ITEM -->
+-->
 
   </channel>
 </rss>
